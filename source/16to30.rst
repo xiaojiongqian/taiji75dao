@@ -1,0 +1,19 @@
+
+第26式：
+----------------------
+
+.. figure:: _static/tu26.png
+    :align: center
+    :width: 80%
+
+    图26
+
+
+第27式：
+----------------------
+
+.. figure:: _static/tu27.png
+    :align: center
+    :width: 80%
+
+    图27
