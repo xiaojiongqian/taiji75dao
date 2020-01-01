@@ -14,7 +14,8 @@ Welcome to writebysphinx's documentation!
    1～15式 <1to15>
    16~30式 <16to30>
    31～45式 <31to45>
-
+   46～60式 <46to60>
+   61～75式 <61to75>
 
 Indices and tables
 ==================
